@@ -1,0 +1,6 @@
+InternalFunctionCallTest:testInternalFunctionCall() (gas: 227429)
+InternalFunctionCallTest:testOptimisedInternalFunctionCall() (gas: 227425)
+OperationTest:testOperation() (gas: 23238)
+OperationTest:testOptimisedOperation() (gas: 23111)
+StructPackingTest:testOptimisedStructPacking() (gas: 1301)
+StructPackingTest:testStructPacking() (gas: 1492)
